@@ -1,0 +1,4 @@
+<Teapot><price>150</price><power>1000</power></Teapot>
+<Laptop><price>1000</price><manufacturer>Lenovo</manufacturer></Laptop>
+<Freezer><price>500</price><volume>50</volume></Freezer>
+<Teapot><price>100</price><power>500</power></Teapot>
