@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.handen.wt2.data"},{"l":"com.handen.wt2.domain"},{"l":"com.handen.wt2.main"},{"l":"com.handen.wt2.service"}]
